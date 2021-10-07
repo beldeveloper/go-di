@@ -1,6 +1,6 @@
 package model
 
-// Topic defines the model for the topic to be user during the voting.
+// Topic defines the model for the topic to be used during the voting.
 type Topic string
 
 const (
